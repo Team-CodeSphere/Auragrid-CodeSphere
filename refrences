@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MicroGrid Refrences</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .link-container {
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+        .profile-picture {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+            border: 3px solid #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 5px;
+        }
+        p {
+            color: #666;
+            font-size: 16px;
+            margin-top: 0;
+            margin-bottom: 30px;
+        }
+        .link-button {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            margin: 15px 0;
+            background-color: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 18px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        .link-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="link-container">
+
+        <h1>Refrences</h1>
+        <p>These are our Refrences for MicroGrid</p>
+
+        <a class="link-button" href="https://www.sciencedirect.com/science/article/pii/S2211467X23000779"> REF 1</a>
+        <a class="link-button" href="https://www.researchgate.net/publication/373019312_Microgrids_A_review_outstanding_issues_and_future_trends">REF 2</a>
+        <a class="link-button" href="https://jesit.springeropen.com/articles/10.1186/s43067-024-00188-4">REF 3</a>
+        <a class="link-button" href="https://jesit.springeropen.com/articles/10.1186/s43067-024-00188-4">REF 4</a>
+
+        
+        <a class="link-button" href="https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2022.1097858/full">REF 5</a>
+        <a class="link-button" href="https://www.nature.com/articles/s41598-023-48985-7">REF 6</a>
+        <a class="link-button" href="https://elicit.com/notebook/a27f06d4-db9f-42e3-b6bb-0a001f325935#1865fa6019adc90be5d269939cd09515">REF 7</a>
+        <a class="link-button" href="">REF 8</a>
+
+
+    </div>
+
+</body>
+</html>
